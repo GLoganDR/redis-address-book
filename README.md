@@ -1,10 +1,10 @@
-## name of project
+## redis-address-book
 ### Code Badges
 build status icon
 coverage status icon
 
 ### About
-write a description about your project
+Working with redis database
 
 ### Models
 ```
@@ -24,9 +24,7 @@ prop-f
 ```
 
 ### Features
-- feature 1
-- feature 2
-- feature 3
+Class Exercise
 
 ### Running Tests
 ```bash
@@ -35,7 +33,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Logan Richardson](https://github.com/GLoganDR)
 
 ### License
 [MIT](LICENSE)
